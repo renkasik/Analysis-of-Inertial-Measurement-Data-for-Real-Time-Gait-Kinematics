@@ -6,3 +6,5 @@ The code is in a Jupyter Notebook and written with Python. It has the codes for:
 - Filtering of preprocessed data
 - Custom functions for finding, extereme points, inflection points and walking periods
 - Visualizations
+
+  The visualizations have errors under them, because of a compatibilty issue with the timestamps in the x-axis. Despite the errors, the code for visualization works when clicked on the individual code cell for the needed visualization. The problem occurs only when the 'run all' command is used.
